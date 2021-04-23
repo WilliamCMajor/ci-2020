@@ -1,0 +1,44 @@
+body {
+    background-color: #fff;
+}
+
+h1 {
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+}
+
+.detail-view {
+    background: none;
+    border: 1px solid #555;
+    padding: 0.5rem 2rem;
+    cursor: pointer;
+}
+
+.detail-view:hover {
+    background-color: rgb(67, 193, 231);
+}
+
+.author {
+    font-size: 1rem;
+    border: 1px solid #555;
+    padding: 0.5rem 1rem;
+    color: rgb(110, 211, 110);
+    border-radius: 5px;
+    width: 50%;
+}
+
+.tutorial-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 2rem;
+}
+
+.whatever img {
+    width: 100%;
+    height: auto;
+    margin: 2rem 0;
+}
+
+.whatever {
+    margin-bottom: 2rem;
+}
