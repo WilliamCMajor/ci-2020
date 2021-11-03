@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://she8.dmitstudent.ca/dmit2503/ci-2020/';
+$config['base_url'] = 'https://codeigniter-ci-2020.herokuapp.com/';
 
 /*
 |--------------------------------------------------------------------------
